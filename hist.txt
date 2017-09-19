@@ -1,0 +1,499 @@
+    1  vi tracks.py 
+    2  python3 tracks.py 
+    3  vi tracks.py 
+    4  python3 tracks.py 
+    5  vi tracks.py 
+    6  python3 tracks.py 
+    7  vi tracks.py 
+    8  python3 tracks.py 
+    9  :q
+   10  vi tracks.py 
+   11  python3 tracks.py 
+   12  ls -ltr
+   13  cd ..
+   14  ls
+   15  vi emaildb.py
+   16  pwd
+   17  ls
+   18  vi roster.py
+   19  ls -ltr
+   20  python3 roster.py
+   21  vi roster.py
+   22  python3 roster.py
+   23  py
+   24  ls
+   25  cd ..
+   26  ls -ltr
+   27  cd class4/
+   28  ls -ltr
+   29  cd geodata
+   30  ls -ltr
+   31  vi geoload.py 
+   32  vi geoload.py 
+   33  ls -ltr
+   34  vi where.data 
+   35  vi where.data 
+   36  python3 geoload.py 
+   37  python3 geodump.py 
+   38  ls -ltr
+   39  vi where.data 
+   40  python3 geoload.py 
+   41  vi where.data 
+   42  python3 geoload.py 
+   43  :q
+   44  vi where.data 
+   45  python3 geoload.py 
+   46  python3 geodump.py 
+   47  open where.html 
+   48  vi where.data 
+   49  python3 geoload.py 
+   50  vi where.data 
+   51  python3 geoload.py 
+   52  ls -ltr
+   53  vi README.txt 
+   54  cp where.data where.data.org
+   55  vi where.data
+   56  :q
+   57  python3 geoload.py 
+   58  python3 geodump.py 
+   59  open where.html 
+   60  vi geoload.py 
+   61  python3 geoload.py 
+   62  python3 geoload.py 
+   63  python3 geodump.py 
+   64  open where.html 
+   65  ls -ltr
+   66  vi extractjsondata.py
+   67  python3 extractjsondata.py 
+   68  vi extractjsondata.py
+   69  python3 extractjsondata.py 
+   70  vi extractjsondata.py
+   71  python3 extractjsondata.py 
+   72  vi extractjsondata.py
+   73  python3 extractjsondata.py 
+   74  vi extractjsondata.py
+   75  python3 extractjsondata.py 
+   76  vi extractjsondata.py
+   77  python3 extractjsondata.py 
+   78  vi extractjsondata.py
+   79  python3 extractjsondata.py 
+   80  vi extractjsondata.py
+   81  python3 extractjsondata.py 
+   82  vi extractjsondata.py
+   83  python3 extractjsondata.py 
+   84  vi extractjsondata.py
+   85  python3 extractjsondata.py 
+   86  vi extractjsondata.py
+   87  python3 extractjsondata.py 
+   88  vi extractjsondata.py
+   89  python3 extractjsondata.py 
+   90  vi extractjsondata.py
+   91  python3 extractjsondata.py 
+   92  vi extractjsondata.py
+   93  python3 extractjsondata.py 
+   94  vi extractjsondata.py
+   95  python3 extractjsondata.py 
+   96  vi extractjsondata.py
+   97  vi extractjsondata.py
+   98  python3 extractjsondata.py 
+   99  vi extractjsondata.py
+  100  python3 extractjsondata.py 
+  101  vi extractjsondata.py
+  102  python3 extractjsondata.py 
+  103  :q
+  104  vi extractjsondata.py
+  105  python3 extractjsondata.py 
+  106  ls -ltr
+  107  cat extractxmldata.py
+  108  vi extractjsondata.py
+  109  python3 extractjsondata.py 
+  110  vi extractjsondata.py
+  111  python3 extractjsondata.py 
+  112  ls -ltr
+  113  extractgeoapidata.py
+  114  vi extractgeoapidata.py
+  115  puthon3 extractgeoapidata.py 
+  116  python3 extractgeoapidata.py 
+  117  vi extractgeoapidata.py
+  118  python3 extractgeoapidata.py 
+  119  vi extractgeoapidata.py
+  120  python3 extractgeoapidata.py 
+  121  vi extractgeoapidata.py
+  122  python3 extractgeoapidata.py 
+  123  vi extractgeoapidata.py
+  124  python3 extractgeoapidata.py 
+  125  vi extractgeoapidata.py
+  126  python3 extractgeoapidata.py 
+  127  vi extractgeoapidata.py
+  128  python3 extractgeoapidata.py 
+  129  cat extractgeoapidata.py 
+  130  ls -ltr
+  131  vi files.py
+  132  python3 files.py 
+  133  vi files.py
+  134  vi files.py
+  135  python3 files.py 
+  136  mkdir class4
+  137  vi emaildb.py
+  138  python emaildb.py 
+  139  python emaildb.py 
+  140  vi emaildb.py
+  141  python emaildb.py 
+  142  vi mbox.txt
+  143  vi emaildb.py
+  144  python emaildb.py 
+  145  ls -ltr
+  146  ls -ltr
+  147  ls -l ..
+  148  python3 emaildb.py 
+  149  vi emaildb.py
+  150  python3 emaildb.py 
+  151  vi mbox.txt
+  152  ls -ltr
+  153  pwd
+  154  cd geodata
+  155  ls -ltr
+  156  vi geoload.py 
+  157  vi geodump.py 
+  158  cd ..
+  159  ls -ltr
+  160  pwd
+  161  cd ..
+  162  ls -ltr
+  163  ls -ltr
+  164  cd Capstoneproject/
+  165  ls
+  166  cd pagerank
+  167  ls -ltr
+  168  python3 spider.py
+  169  ls -ltr
+  170  python3 sprank.py 
+  171  python3 sprank.py 
+  172  python3 sprank.py 
+  173  python3 sprank.py 
+  174  python3 sprank.py 
+  175  python3 spdump.py 
+  176  python3 spjson.py 
+  177  open force.html 
+  178  ls -ltr
+  179  rm spider.sqlite 
+  180  clear
+  181  ls -ltr
+  182  ls -ltr bs4/
+  183  clear
+  184  python3 spider.py
+  185  clear
+  186  python3 spider.py
+  187  python3 spdump.py 
+  188  ls -ltr
+  189  python3 sprank.py 
+  190  python3 spider.py
+  191  python3 sprank.py 
+  192  ls -ltr
+  193  python3 spdump.py 
+  194  python3 spjson.py 
+  195  open force.html 
+  196  python3 spider.py
+  197  ls -ltr
+  198  rm spider.sqlite 
+  199  python3 spider.py
+  200  python3 sprank.py 
+  201  python3 sprank.py 
+  202  python3 sprank.py 
+  203  python3 spdump.py 
+  204  python3 spjson.py 
+  205  open force.html 
+  206  open force.html 
+  207  cd $myprofile 
+  208  ls
+  209  ls -ltr
+  210  cd angular2
+  211  ls
+  212  cd angular2testing/
+  213  ls
+  214  cd src
+  215  ls
+  216  cd app
+  217  ls
+  218  vi sampletest.spec.ts
+  219  vi app.component.ts
+  220  cd ..
+  221  cd ..
+  222  pwd
+  223  ng test
+  224  ng test
+  225  sbt
+  226  scala
+  227  sby
+  228  sbt
+  229  scala version
+  230  scala 
+  231  sbt
+  232  cd ..
+  233  ls -l
+  234  cd app
+  235  ls
+  236  cd src
+  237  ls
+  238  cd app
+  239  ls
+  240  ng generate component user
+  241  cd user
+  242  ls -ltr
+  243  ng generate service user
+  244  ng generate directive user
+  245  cd ..
+  246  cd onestopmarketplaceweb/
+  247  ls
+  248  cd src
+  249  cd app
+  250  ls
+  251  ng generate component header
+  252  ng generate component deals
+  253  ng generate component history
+  254  rm -rf history
+  255  ng generate component browsehistory
+  256  ng generate component sell
+  257  ng generate component help
+  258  ng generate component about
+  259  pwd
+  260  ls
+  261  cd src
+  262  ls
+  263  cd app
+  264  ls
+  265  ng generate component department
+  266  pwd
+  267  cd ../..
+  268  pwd
+  269  ls
+  270  pwd
+  271  ls -ltr
+  272  ls -altr
+  273  npm install --save bootstrap
+  274  npm install bootstrap@4.0.0-alpha.6
+  275  npm install --save @ng-bootstrap/ng-bootstrap
+  276  ls
+  277  ng g component navbar
+  278  cd src
+  279  cd app
+  280  ls
+  281  pwd
+  282  npm install jquery --save
+  283  npm install @types/jquery --save-dev
+  284  cd
+  285  pwd
+  286  cd $myprofile 
+  287  ls
+  288  ng new test
+  289  ng new myapp
+  290  npm start
+  291  ng serv --open
+  292  ng serve --open
+  293  pwd
+  294  ls -ltr
+  295  cd myapp/
+  296  ng serve --open
+  297  ls ltr
+  298  ls
+  299  cd ..
+  300  ls
+  301  ls -ltr
+  302  rm -rf myapp
+  303  cd $myprofile 
+  304  ls
+  305  cd onestopmarketplace/
+  306  ls -l
+  307  cd onestopmarketplaceweb/
+  308  ls -ltr
+  309  cd src/
+  310  ls
+  311  cd app
+  312  ls
+  313  ng generate component product
+  314  ng generate component catagory
+  315  ng generate component shoppingcart
+  316  ng generate component purchase
+  317  ng generate component searchengine
+  318  ls -ltr
+  319  ls -ltr
+  320  pwd
+  321  cd ../../
+  322  ls -ltr
+  323  ls -ltr
+  324  ls -ltr
+  325  pwd
+  326  ls -ltr
+  327  cd /Users/user/Documents/sammula/workspace/MyProfile/onestopmarketpalceservice/
+  328  pwd
+  329  ls -ltr ..
+  330  ls -ltr
+  331  cd complete/
+  332  ls -ltr
+  333  cd ..
+  334  ls -ltr
+  335  cd ..
+  336  cd onestopmarketplace/
+  337  ls -ltr
+  338  pwd
+  339  cd ..
+  340  ls -l
+  341  cd onestopmarketplace/
+  342  ls -ltr
+  343  cd initial/
+  344  ls -ltr
+  345  cd src
+  346  ls
+  347  cd main/
+  348  ls
+  349  cd java/
+  350  ls
+  351  cd hello/
+  352  ls 
+  353  ls ../../..
+  354  cd ../../
+  355  cd ../../
+  356  cd ../../
+  357  ls -ltr
+  358  cd onestopmarketp
+  359  cd onestopmarketplace/
+  360  rm -rf *
+  361  ls -ltr
+  362  ls -ltr
+  363  cd ..
+  364  ls
+  365  pwd
+  366  cd onestopmarketpalceservice/
+  367  ls -ltr
+  368  mv complete/ ../onestopmarketplace/onestopmarketplaceservice
+  369  ls -ltr
+  370  cd ../onestopmarketplace/
+  371  ls -ltr
+  372  ls -ltr onestopmarketplaceservice/
+  373  pwd
+  374  ls -ltr
+  375  cd ..
+  376  ls -ltr
+  377  cd onestopmarketplace/
+  378  ls -ltr
+  379  ng new onestopmarketplaceweb
+  380  ls -ltr
+  381  cd onestopmarketplaceweb/
+  382  ng serve --open
+  383  ng serve --open
+  384  ng serve --open
+  385  pwd
+  386  ng g component footer
+  387  npm install ng2-auto-complete --save
+  388  cd ..
+  389  ls
+  390  cd $myprofile 
+  391  ls
+  392  cd angular2
+  393  ls
+  394  cd ng2-auto-complete/
+  395  ls
+  396  cd app
+  397  ls
+  398  cd $myprofile 
+  399  cd onestopmarketplace/
+  400  cd onestopmarketplaceweb/
+  401  npm start
+  402  ng serve --open
+  403  cd ..
+  404  cd ..
+  405  ls
+  406  pwd
+  407  ls
+  408  ng -g component navheader
+  409  ng g component navheader
+  410  ng g component footer
+  411  ng g component managetaskstatus
+  412  ng g component manageusertasks
+  413  ng g component dataselector
+  414  ng g component projecttasks
+  415  ng g component taskdetails
+  416  25
+  417  down vote
+  418  Use this command
+  419  npm install bootstrap@4.0.0-alpha.6
+  420  cd src
+  421  cd app
+  422  ls
+  423  cd dataselector/
+  424  ng g service dataselector
+  425  cd ../taskdetails/
+  426  ng g service taskdetails
+  427  npm install --save @ng-bootstrap/ng-bootstrap
+  428  npm install jquery --save
+  429  npm install @types/jquery --save-dev
+  430  npm install ngx-bootstrap --save
+  431  cd ngapp
+  432  ls
+  433  cd src
+  434  ls
+  435  cd app
+  436  ls
+  437  cd ..
+  438  cd ..
+  439  ng g mytypeahead
+  440  ng g component mytypeahead
+  441  npm install ngx-bootstrap bootstrap@next --save
+  442  ls
+  443  ng g mytypeahead
+  444  ng g component mytypeahead
+  445  history
+  446  cd ..
+  447  cd ..
+  448  ls
+  449  cd my-app/
+  450  ls -ltr
+  451  cd src
+  452  cd app
+  453  ls
+  454  cd ../../..
+  455  ls -ltr
+  456  rm -rf my-app/
+  457  ls -l myapp
+  458  rm -rf myapp
+  459  ls -ltr
+  460  ng new myapp
+  461  ls
+  462  npm install bootstrap@4.0.0alpha.6
+  463  ls -ltr
+  464  npm install ngx-bootstrap bootstrap@next --save
+  465  ng g component mytypeahead
+  466  npm install ngx-bootstrap --save
+  467  npm install --save bootstrap@4.0.0-alpha.6 font-awesome
+  468  npm install --save @ng-bootstrap/ng-bootstrap
+  469  ls
+  470  ng g component analytics
+  471  cd src/app/analytics/
+  472  ng g service analytics
+  473  ng g component navheader
+  474  ng g component header
+  475  ng g component searchengine
+  476  ng g component footer
+  477  ng g component about
+  478  ng g component deals
+  479  ng g component product
+  480  clear
+  481  ng g component help
+  482  ng g component sell
+  483  ng g component user
+  484  ng g component browsehistory
+  485  clear
+  486  ng g component department
+  487  ng g component item
+  488  ng g component item-details
+  489  cd department
+  490  ls
+  491  cd scr
+  492  ls
+  493  cd cd src
+  494  cd src/app
+  495  ls
+  496  cd department/
+  497  ng -g service department
+  498  ng g service department
+  499  history > hist.txt

@@ -1,0 +1,6 @@
+
+<label class="card card-block card-header">Model: {{selected | json}}</label>
+<input [(ngModel)] = "selected"
+       [typeahead]="states"
+       class="form-control">
+
